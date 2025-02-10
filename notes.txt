@@ -1,0 +1,1 @@
+react k jo ham components banate hai function se ham use <function_name/> is k bajaye function_name() <= ese bhi call kar skte hai
