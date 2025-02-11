@@ -1,1 +1,6 @@
-react k jo ham components banate hai function se ham use <function_name/> is k bajaye function_name() <= ese bhi call kar skte hai
+[1] react k jo ham components banate hai function se ham use <function_name/> is k bajaye function_name() <= ese bhi call kar skte hai
+
+[2] hooks : hame bar bar getelementbyid ye sab n karna pade react me isliye iska use karte hai 
+eg. useState() ye bhi ek prakar ka react hook hi hai 
+ye basically 1 variable & 1 function bnvata hai hammse let[counter,setCounter] = useState(default_value)
+counter jo ham har jagah display kaane k liye use karenge and setCounter iska use ham counter ki value ko change/modify karne k liye use karenge
