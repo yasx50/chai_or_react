@@ -1,5 +1,5 @@
 
-import { React,createRoot, ReactDOM} from 'react-dom/client'
+import { React,createRoot, } from 'react-dom/client'
 
 import App from './App.jsx'
 
